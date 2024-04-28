@@ -1,0 +1,4 @@
+train: /Users/siddharthsanthosh/YoloDataset/durham_images/Train/Images
+val: /Users/siddharthsanthosh/YoloDataset/durham_images/Valid/Images
+nc: 1
+names: ['Durham College']

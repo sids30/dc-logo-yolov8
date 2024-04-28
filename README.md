@@ -15,3 +15,6 @@ Recognize and distinguish the Durham College logo from the environment in each t
 
 # Results
 The model accurately recognized all images presented in the testing set.
+
+# Note
+Only test photos (predict) are uploaded due to file size restrictions on GitHub.

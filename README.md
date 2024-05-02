@@ -4,7 +4,7 @@ Computer vision project for YOLOV8 implementation.
 # Objective
 Recognize and distinguish the Durham College logo from the environment in each test image.
 
-# Task
+# Steps
 - Open terminal or other command-line interface
 - Clone YOLOV8 (ultralytics) to working directory
 - Initialize a YOLO object with pre-trained weights file *yolov8n.pt*.

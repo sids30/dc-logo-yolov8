@@ -6,11 +6,12 @@ Recognize and distinguish the Durham College logo from the environment in each t
 
 # Steps
 - Open terminal or other command-line interface
+- Create and activate a virtual environment (venv)
 - Clone YOLOV8 (ultralytics) to working directory
-- Initialize a YOLO object with pre-trained weights file *yolov8n.pt*.
+- Initialize a YOLO object with pre-trained weights file *yolov8n.pt*
 - Start the model training by specifying required parameters such as number of epochs (300) and patience (50)
 - Save model to train directory
-- Run test on the validation set and adjust previous values accordingly for performance.
+- Run test on the validation set and adjust previous values accordingly, for performance
 - Run test on the testing set
 
 # Results
